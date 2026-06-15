@@ -5,8 +5,6 @@ langchain-google-genai
 langchain-anthropic
 langchain-groq
 langchain-community
-langchain-groq
-langchain-openai
 langgraph
 PyPDF
 beautifulsoup4
@@ -14,3 +12,4 @@ wikipedia
 langchain-text-splitters
 langchain-chroma
 pydantic
+streamlit
